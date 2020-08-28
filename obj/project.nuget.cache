@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ft40LDoMaT9aMdz5Y+CAjwDA94MQqZ5hsa6g2iVAt7O9VxFJP7u2vC0aNwfiVxmZ2CJYBGb0wP1jKLWtOzAKxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cesar\\Desktop\\LoadBalancerNET5\\ExemploYARPLoadBalancer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.reverseproxy\\1.0.0-preview.1.20268.2\\microsoft.reverseproxy.1.0.0-preview.1.20268.2.nupkg.sha512"
+  ],
+  "logs": []
+}
